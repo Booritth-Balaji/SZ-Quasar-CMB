@@ -12,5 +12,3 @@ To Do:
 [x] Make a Github repo?
 [x] Organize all the relevant data files into your folder
 [ ] 
-
-[ ] Use the astropy cosmology for convertin angles to distances
